@@ -1,0 +1,10 @@
+{
+  "name": "HDPE Pipe Weight Calculator",
+  "short_name": "HDPE Weight",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#111827",
+  "description": "HDPE pipe weight calculator for IPS and DIPS pipe sizes.",
+  "icons": []
+}
